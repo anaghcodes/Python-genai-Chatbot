@@ -1,0 +1,17 @@
+============================================================
+  Chatbot Conversation Log
+  Started: 2026-06-19 13:48:39
+============================================================
+
+[13:48:42] User: hi
+
+[13:48:44] Bot: Good morning, Sir. How may I be of assistance?
+
+[13:48:56] User: what is the current weather in Kerala
+
+[13:48:57] Bot: One moment, Sir. Retrieving current meteorological data for Kerala...
+
+It appears to be 29 degrees Celsius with scattered thunderstorms currently, Sir. A 60% chance of precipitation is expected to persist throughout the afternoon.
+
+[13:49:17] Bot: Goodbye! Have a lovely day sir.
+
